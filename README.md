@@ -77,7 +77,7 @@ flask_app/
 │       └── index.html
 ├── tests/
 │   └── test_app.py
-├── run.py
+├── app.py
 ├── requirements.txt
 ├── Dockerfile
 ├── .github/
